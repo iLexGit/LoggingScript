@@ -13,3 +13,4 @@ POST /user/edit/,Browsing to site,Non Attack,3
 GET /sites/,Browsing to site,Non Attack,3
 GET /register/,Browsing to site,Non Attack,3
 \.env HTTP,Bowsing to .env directory,No Associated CVE,2
+netgear,Router Worm,CVE-2018-10561,1
